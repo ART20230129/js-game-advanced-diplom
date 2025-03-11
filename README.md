@@ -2,6 +2,7 @@
 
 ![CI](https://github.com/ART20230129/js-game-advanced-diplom/actions/workflows/web.yml/badge.svg)
 
+https://art20230129.github.io/js-game-advanced-diplom/
 
 # Дипломное задание к курсу «Продвинутый JavaScript». Retro Game
 
